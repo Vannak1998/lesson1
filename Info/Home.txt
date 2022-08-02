@@ -1,1 +1,6 @@
 This is Git and Github for pull push and clone code 
+
+Every time work is saved, Git creates a commit. A commit is a snapshot of all files at a point in time. 
+
+Each developer saves changes to their own local code repository. 
+As a result, there can be many different changes based off the same commit.
